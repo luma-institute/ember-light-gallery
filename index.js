@@ -3,7 +3,7 @@
 
 let requiredPath = {
   css: ['lightgallery/src/css/lightgallery.css'],
-  fonts: ['lightgallery/src/fonts/lg.ttf', 'lightgallery/src/fonts/lg.woff', 'lightgallery/src/fonts/lg.eot'],
+  fonts: ['lightgallery/src/fonts/lg.ttf', 'lightgallery/src/fonts/lg.woff'],
   img: ['lightgallery/src/img/loading.gif'],
   vendor: ['lightgallery/src/js/lightgallery.js']
 }
